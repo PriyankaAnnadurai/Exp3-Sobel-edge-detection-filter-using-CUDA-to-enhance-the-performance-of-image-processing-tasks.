@@ -3,7 +3,7 @@
 ### ENTER YOUR NAME : PRIYANKA A
 ### ENTER YOUR REGISTER NO: 212222230113
 ### EX. NO: 3
-### DATE: 05-10-25
+### DATE: 25-09-25
   
 ## AIM:
   The Sobel operator is a popular edge detection method that computes the gradient of the image intensity at each pixel. It uses convolution with two kernels to determine the gradient in both the x and y directions. This lab focuses on utilizing CUDA to parallelize the Sobel filter implementation for efficient processing of images.
